@@ -4855,3 +4855,442 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.25-10.48.55:892][326]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5388.867676
 [2025.10.25-10.48.56:889][329]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.25-10.48.56:889][329]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5389.535156, Update Interval: 351.683105
+[2025.10.25-10.53.45:480][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2025.10.25-10.53.48:374][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-10.53.48:452][363]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu] ([2] browsable assets)...
+[2025.10.25-10.53.48:457][363]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu.WD_Main_Menu]
+[2025.10.25-10.53.48:457][363]OBJ SavePackage: Finished generating thumbnails for package [/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu]
+[2025.10.25-10.53.48:457][363]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu" FILE="S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset" SILENT=true
+[2025.10.25-10.53.48:482][363]LogSavePackage: Moving output files for package: /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu
+[2025.10.25-10.53.48:483][363]LogSavePackage: Moving 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/WD_Main_Menu658DF3924C47C6DD9BF041910E89FF95.tmp' to 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset'
+[2025.10.25-10.53.48:490][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.427 ms (total: 2.75 sec)
+[2025.10.25-10.53.48:550][363]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-10.53.48:550][363]LogContentValidation: Enabled validators:
+[2025.10.25-10.53.48:550][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-10.53.48:550][363]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-10.53.48:550][363]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-10.53.48:550][363]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-10.53.48:550][363]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-10.53.48:550][363]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-10.53.48:550][363]AssetCheck: /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu Validating asset
+[2025.10.25-10.53.52:382][800]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-10.53.52:390][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-10.53.52:390][800]LogPlayLevel: Creating play world package: /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent
+[2025.10.25-10.53.52:392][800]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002548s)
+[2025.10.25-10.53.52:393][800]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VN_Framework/Maps/Main_Persistent.Main_Persistent to /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent (0.002590s)
+[2025.10.25-10.53.52:417][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2025.10.25-10.53.52:420][800]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Persistent
+[2025.10.25-10.53.52:422][800]LogPlayLevel: PIE: World Init took: (0.001988s)
+[2025.10.25-10.53.52:423][800]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2025.10.25-10.53.52:423][800]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-10.53.52:423][800]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-10.53.52:423][800]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-10.53.52:423][800]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-10.53.52:423][800]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-10.53.52:423][800]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-10.53.52:423][800]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-10.53.52:423][800]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-10.53.52:423][800]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-10.53.52:423][800]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-10.53.52:423][800]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-10.53.52:425][800]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-10.53.52:447][800]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2025.10.25-10.53.52:448][800]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-10.53.52:448][800]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-10.53.52:448][800]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-10.53.52:448][800]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2025.10.25-10.53.52:448][800]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2025.10.25-10.53.52:450][800]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2025.10.25-10.53.52:450][800]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2025.10.25-10.53.52:450][800]LogInit: FAudioDevice initialized with ID 15.
+[2025.10.25-10.53.52:450][800]LogAudio: Display: Audio Device (ID: 15) registered with world 'Main_Persistent'.
+[2025.10.25-10.53.52:451][800]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.25-10.53.52:455][800]LogLoad: Game class is 'VN_GameMode_C'
+[2025.10.25-10.53.52:456][800]LogWorld: Bringing World /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent up for play (max tick rate 0) at 2025.10.25-13.53.52
+[2025.10.25-10.53.52:456][800]LogWorld: Bringing up level for play took: 0.000952
+[2025.10.25-10.53.52:459][800]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.10.25-10.53.52:459][800]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-10.53.52:459][800]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-10.53.52:461][800]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-10.53.52:461][800]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.10.25-10.53.52:461][800]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.10.25-10.53.52:461][800]LogLevel: ActivateLevel /Game/VN_Framework/Maps/UEDPIE_0_TutorialMap 1 1 0
+[2025.10.25-10.53.52:462][800]PIE: Server logged in
+[2025.10.25-10.53.52:464][800]PIE: Play in editor total start time 0.074 seconds.
+[2025.10.25-10.53.52:497][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/VN_Framework/Maps/Main_Persistent.Main_Persistent_C:ExecuteUbergraph_Main_Persistent'!
+[2025.10.25-10.53.52:497][801]LogScript: Warning: Script Msg called by: Main_Persistent_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.Main_Persistent_C_0
+[2025.10.25-10.53.52:498][801]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2025.10.25-10.53.52:499][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:499][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_0
+[2025.10.25-10.53.52:499][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:499][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_1
+[2025.10.25-10.53.52:499][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:499][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.53.52:499][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:499][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.53.52:500][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.53.52:501][801]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.53.52:501][801]Cmd: enableallscreenmessages
+[2025.10.25-10.53.52:501][801]LogEngine: Onscreen warnings/messages are now ENABLED
+[2025.10.25-10.53.52:592][803]sg.ResolutionQuality = "100"
+[2025.10.25-10.53.52:592][803]LogBlueprintUserMessages: [Global_BP_C_13] Skipping text calibration
+[2025.10.25-10.53.52:812][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.53.52:812][827]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0
+[2025.10.25-10.53.52:812][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.53.52:812][827]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0
+[2025.10.25-10.53.52:812][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.53.52:812][827]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0
+[2025.10.25-10.53.52:812][827]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.53.52:812][827]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0
+[2025.10.25-10.53.59:447][620]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/VN_Framework/Blueprints/Global_BP.Global_BP_C:ExecuteUbergraph_Global_BP'!
+[2025.10.25-10.53.59:447][620]LogScript: Warning: Script Msg called by: Global_BP_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13
+[2025.10.25-10.53.59:956][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_ParseIntoArray_ReturnValue_23' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C:ExecuteUbergraph_SceneTemplate_BP'!
+[2025.10.25-10.53.59:956][679]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.53.59:959][679]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpeakerNameExcepts' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C'!
+[2025.10.25-10.53.59:959][679]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.53.59:975][680]LogBlueprintUserMessages: [Global_BP_C_13] SAVING
+[2025.10.25-10.54.00:455][737]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WidgetsUp' of length 0 in '/Game/VN_Framework/Blueprints/Global_BP.Global_BP_C'!
+[2025.10.25-10.54.00:455][737]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_13.WD_Main_Menu_C_0
+[2025.10.25-10.54.01:324][840]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_ParseIntoArray_ReturnValue_16' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C:ExecuteUbergraph_SceneTemplate_BP'!
+[2025.10.25-10.54.01:324][840]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.54.01:324][840]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpeakerNameExcepts' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C'!
+[2025.10.25-10.54.01:324][840]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.54.01:324][840]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_ParseIntoArray_ReturnValue_18' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C:ExecuteUbergraph_SceneTemplate_BP'!
+[2025.10.25-10.54.01:324][840]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.54.03:228][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-10.54.03:228][ 59]LogWorld: BeginTearingDown for /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent
+[2025.10.25-10.54.03:229][ 59]LogWorld: UWorld::CleanupWorld for Main_Persistent, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-10.54.03:229][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-10.54.03:231][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-10.54.03:235][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-10.54.03:259][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-10.54.03:259][ 59]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2025.10.25-10.54.03:259][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=4
+[2025.10.25-10.54.03:261][ 59]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15, StreamState=2
+[2025.10.25-10.54.03:266][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-10.54.03:270][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.10.25-10.54.03:319][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.10.25-10.54.03:330][ 61]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.10.25-10.55.11:702][216]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.10.25-10.55.12:978][336]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-10.55.13:030][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu] ([2] browsable assets)...
+[2025.10.25-10.55.13:033][336]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu.WD_Main_Menu]
+[2025.10.25-10.55.13:033][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu]
+[2025.10.25-10.55.13:033][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu" FILE="S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset" SILENT=true
+[2025.10.25-10.55.13:063][336]LogSavePackage: Moving output files for package: /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu
+[2025.10.25-10.55.13:063][336]LogSavePackage: Moving 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/WD_Main_MenuDF085FB84A2A0BFAC21CE4947E4B5CE0.tmp' to 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset'
+[2025.10.25-10.55.13:072][336]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.604 ms (total: 2.84 sec)
+[2025.10.25-10.55.13:151][336]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-10.55.13:151][336]LogContentValidation: Enabled validators:
+[2025.10.25-10.55.13:151][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-10.55.13:151][336]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-10.55.13:151][336]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-10.55.13:151][336]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-10.55.13:151][336]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-10.55.13:151][336]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-10.55.13:152][336]AssetCheck: /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu Validating asset
+[2025.10.25-10.55.30:708][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.10.25-10.55.31:617][185]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-10.55.31:663][185]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu] ([2] browsable assets)...
+[2025.10.25-10.55.31:667][185]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu.WD_Main_Menu]
+[2025.10.25-10.55.31:667][185]OBJ SavePackage: Finished generating thumbnails for package [/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu]
+[2025.10.25-10.55.31:667][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu" FILE="S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset" SILENT=true
+[2025.10.25-10.55.31:694][185]LogSavePackage: Moving output files for package: /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu
+[2025.10.25-10.55.31:694][185]LogSavePackage: Moving 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/WD_Main_Menu1C56926645677C73F06B5C94D49C9BB3.tmp' to 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset'
+[2025.10.25-10.55.31:700][185]LogFileHelpers: InternalPromptForCheckoutAndSave took 83.819 ms (total: 2.92 sec)
+[2025.10.25-10.55.31:780][185]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-10.55.31:780][185]LogContentValidation: Enabled validators:
+[2025.10.25-10.55.31:780][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-10.55.31:780][185]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-10.55.31:780][185]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-10.55.31:780][185]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-10.55.31:780][185]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-10.55.31:780][185]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-10.55.31:781][185]AssetCheck: /Game/VN_Framework/Blueprints/Widgets/WD_Main_Menu Validating asset
+[2025.10.25-10.55.33:639][396]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-10.55.33:645][396]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-10.55.33:645][396]LogPlayLevel: Creating play world package: /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent
+[2025.10.25-10.55.33:647][396]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002367s)
+[2025.10.25-10.55.33:647][396]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VN_Framework/Maps/Main_Persistent.Main_Persistent to /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent (0.002405s)
+[2025.10.25-10.55.33:670][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.10.25-10.55.33:676][396]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Persistent
+[2025.10.25-10.55.33:678][396]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2025.10.25-10.55.33:678][396]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2025.10.25-10.55.33:678][396]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-10.55.33:678][396]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-10.55.33:678][396]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-10.55.33:678][396]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-10.55.33:678][396]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-10.55.33:678][396]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-10.55.33:678][396]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-10.55.33:678][396]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-10.55.33:678][396]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-10.55.33:678][396]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-10.55.33:678][396]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-10.55.33:680][396]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-10.55.33:701][396]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2025.10.25-10.55.33:702][396]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-10.55.33:702][396]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-10.55.33:702][396]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-10.55.33:702][396]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2025.10.25-10.55.33:702][396]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2025.10.25-10.55.33:705][396]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2025.10.25-10.55.33:705][396]LogInit: FAudioDevice initialized with ID 16.
+[2025.10.25-10.55.33:705][396]LogAudio: Display: Audio Device (ID: 16) registered with world 'Main_Persistent'.
+[2025.10.25-10.55.33:705][396]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2025.10.25-10.55.33:705][396]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2025.10.25-10.55.33:751][396]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-10.55.33:752][396]LogLoad: Game class is 'VN_GameMode_C'
+[2025.10.25-10.55.33:755][396]LogWorld: Bringing World /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent up for play (max tick rate 0) at 2025.10.25-13.55.33
+[2025.10.25-10.55.33:755][396]LogWorld: Bringing up level for play took: 0.002111
+[2025.10.25-10.55.33:761][396]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.10.25-10.55.33:761][396]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-10.55.33:762][396]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-10.55.33:764][396]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-10.55.33:764][396]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.10.25-10.55.33:764][396]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.10.25-10.55.33:764][396]LogLevel: ActivateLevel /Game/VN_Framework/Maps/UEDPIE_0_TutorialMap 1 1 0
+[2025.10.25-10.55.33:770][396]PIE: Server logged in
+[2025.10.25-10.55.33:774][396]PIE: Play in editor total start time 0.129 seconds.
+[2025.10.25-10.55.33:802][397]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1280"
+[2025.10.25-10.55.33:802][397]LogCsvProfiler: Display: Metadata set : systemresolution.resy="720"
+[2025.10.25-10.55.33:813][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/VN_Framework/Maps/Main_Persistent.Main_Persistent_C:ExecuteUbergraph_Main_Persistent'!
+[2025.10.25-10.55.33:813][397]LogScript: Warning: Script Msg called by: Main_Persistent_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.Main_Persistent_C_0
+[2025.10.25-10.55.33:813][397]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2025.10.25-10.55.33:814][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:814][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_0
+[2025.10.25-10.55.33:815][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:815][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_1
+[2025.10.25-10.55.33:815][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:815][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.55.33:815][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.55.33:816][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.55.33:817][397]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.55.33:818][397]Cmd: enableallscreenmessages
+[2025.10.25-10.55.33:818][397]LogEngine: Onscreen warnings/messages are now ENABLED
+[2025.10.25-10.55.33:862][398]sg.ResolutionQuality = "100"
+[2025.10.25-10.55.33:862][398]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1920"
+[2025.10.25-10.55.33:862][398]LogCsvProfiler: Display: Metadata set : systemresolution.resy="1080"
+[2025.10.25-10.55.34:044][398]LogBlueprintUserMessages: [Global_BP_C_14] Skipping text calibration
+[2025.10.25-10.55.34:305][416]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.55.34:305][416]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0
+[2025.10.25-10.55.34:305][416]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.55.34:305][416]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0
+[2025.10.25-10.55.34:305][416]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.55.34:305][416]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0
+[2025.10.25-10.55.34:305][416]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.55.34:305][416]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0
+[2025.10.25-10.55.35:610][527]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5788.604004
+[2025.10.25-10.55.35:810][545]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-10.55.35:810][545]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5788.792480, Update Interval: 306.212952
+[2025.10.25-10.55.36:867][638]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/VN_Framework/Blueprints/Global_BP.Global_BP_C:ExecuteUbergraph_Global_BP'!
+[2025.10.25-10.55.36:867][638]LogScript: Warning: Script Msg called by: Global_BP_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14
+[2025.10.25-10.55.37:381][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_ParseIntoArray_ReturnValue_23' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C:ExecuteUbergraph_SceneTemplate_BP'!
+[2025.10.25-10.55.37:381][682]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.55.37:384][682]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpeakerNameExcepts' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C'!
+[2025.10.25-10.55.37:384][682]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.55.37:408][683]LogBlueprintUserMessages: [Global_BP_C_14] SAVING
+[2025.10.25-10.55.37:871][723]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WidgetsUp' of length 0 in '/Game/VN_Framework/Blueprints/Global_BP.Global_BP_C'!
+[2025.10.25-10.55.37:871][723]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_14.WD_Main_Menu_C_0
+[2025.10.25-10.55.39:437][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-10.55.39:437][859]LogWorld: BeginTearingDown for /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent
+[2025.10.25-10.55.39:439][859]LogSlate: Window 'MyoNaOmoitsukiDeVN Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2025.10.25-10.55.39:447][859]LogWorld: UWorld::CleanupWorld for Main_Persistent, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-10.55.39:447][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-10.55.39:448][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-10.55.39:454][859]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-10.55.39:483][859]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-10.55.39:483][859]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2025.10.25-10.55.39:483][859]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=4
+[2025.10.25-10.55.39:486][859]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16, StreamState=2
+[2025.10.25-10.55.39:495][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.10.25-10.55.39:516][860]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.10.25-10.55.39:544][860]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.10.25-10.56.48:278][761]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-10.56.48:284][761]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-10.56.48:286][761]LogPlayLevel: Creating play world package: /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent
+[2025.10.25-10.56.48:289][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003008s)
+[2025.10.25-10.56.48:289][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VN_Framework/Maps/Main_Persistent.Main_Persistent to /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent (0.003067s)
+[2025.10.25-10.56.48:311][761]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.10.25-10.56.48:314][761]LogChaosDD: Creating Chaos Debug Draw Scene for world Main_Persistent
+[2025.10.25-10.56.48:315][761]LogPlayLevel: PIE: World Init took: (0.001656s)
+[2025.10.25-10.56.48:316][761]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2025.10.25-10.56.48:316][761]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-10.56.48:316][761]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-10.56.48:316][761]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-10.56.48:316][761]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-10.56.48:316][761]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-10.56.48:316][761]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-10.56.48:316][761]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-10.56.48:316][761]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-10.56.48:316][761]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-10.56.48:316][761]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-10.56.48:316][761]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-10.56.48:319][761]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-10.56.48:340][761]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2025.10.25-10.56.48:340][761]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-10.56.48:340][761]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-10.56.48:340][761]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-10.56.48:341][761]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2025.10.25-10.56.48:341][761]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2025.10.25-10.56.48:343][761]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2025.10.25-10.56.48:343][761]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2025.10.25-10.56.48:343][761]LogInit: FAudioDevice initialized with ID 17.
+[2025.10.25-10.56.48:343][761]LogAudio: Display: Audio Device (ID: 17) registered with world 'Main_Persistent'.
+[2025.10.25-10.56.48:343][761]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2025.10.25-10.56.48:399][761]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-10.56.48:400][761]LogLoad: Game class is 'VN_GameMode_C'
+[2025.10.25-10.56.48:404][761]LogWorld: Bringing World /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent up for play (max tick rate 0) at 2025.10.25-13.56.48
+[2025.10.25-10.56.48:406][761]LogWorld: Bringing up level for play took: 0.003689
+[2025.10.25-10.56.48:413][761]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.10.25-10.56.48:413][761]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.10.25-10.56.48:414][761]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2025.10.25-10.56.48:416][761]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.10.25-10.56.48:416][761]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.10.25-10.56.48:416][761]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2025.10.25-10.56.48:416][761]LogLevel: ActivateLevel /Game/VN_Framework/Maps/UEDPIE_0_TutorialMap 1 1 0
+[2025.10.25-10.56.48:420][761]PIE: Server logged in
+[2025.10.25-10.56.48:423][761]PIE: Play in editor total start time 0.139 seconds.
+[2025.10.25-10.56.48:458][762]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1914"
+[2025.10.25-10.56.48:458][762]LogCsvProfiler: Display: Metadata set : systemresolution.resy="1040"
+[2025.10.25-10.56.48:467][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllWidgetsOfClass_FoundWidgets' of length 0 in '/Game/VN_Framework/Maps/Main_Persistent.Main_Persistent_C:ExecuteUbergraph_Main_Persistent'!
+[2025.10.25-10.56.48:467][762]LogScript: Warning: Script Msg called by: Main_Persistent_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.Main_Persistent_C_0
+[2025.10.25-10.56.48:469][762]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2025.10.25-10.56.48:471][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:471][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_0
+[2025.10.25-10.56.48:471][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:471][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_1
+[2025.10.25-10.56.48:471][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:471][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.56.48:471][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_2
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_3
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_4
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:472][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_5
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_6
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'ButtonListWidgets' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C'!
+[2025.10.25-10.56.48:473][762]LogScript: Warning: Script Msg called by: WD_BasicButton_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0.WidgetTree_0.WD_BasicButton_C_7
+[2025.10.25-10.56.48:474][762]Cmd: enableallscreenmessages
+[2025.10.25-10.56.48:474][762]LogEngine: Onscreen warnings/messages are now ENABLED
+[2025.10.25-10.56.48:521][763]sg.ResolutionQuality = "100"
+[2025.10.25-10.56.48:521][763]LogCsvProfiler: Display: Metadata set : systemresolution.resx="1920"
+[2025.10.25-10.56.48:521][763]LogCsvProfiler: Display: Metadata set : systemresolution.resy="1080"
+[2025.10.25-10.56.48:542][763]LogPSOHitching: Encountered 350 PSO creation hitches so far (233 graphics, 117 compute). 0 of them were precached.
+[2025.10.25-10.56.48:628][763]LogBlueprintUserMessages: [Global_BP_C_15] Skipping text calibration
+[2025.10.25-10.56.49:015][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.56.49:015][783]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0
+[2025.10.25-10.56.49:015][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.56.49:015][783]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0
+[2025.10.25-10.56.49:015][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.56.49:015][783]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0
+[2025.10.25-10.56.49:015][783]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Array' of length 0 in '/Game/VN_Framework/Blueprints/Widgets/WD_MenuParent.WD_MenuParent_C:CheckEnabledButtons'!
+[2025.10.25-10.56.49:015][783]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0
+[2025.10.25-10.56.52:693][ 23]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors_2' of length 0 in '/Game/VN_Framework/Blueprints/Global_BP.Global_BP_C:ExecuteUbergraph_Global_BP'!
+[2025.10.25-10.56.52:693][ 23]LogScript: Warning: Script Msg called by: Global_BP_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15
+[2025.10.25-10.56.53:214][ 57]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_ParseIntoArray_ReturnValue_23' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C:ExecuteUbergraph_SceneTemplate_BP'!
+[2025.10.25-10.56.53:214][ 57]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.56.53:217][ 57]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SpeakerNameExcepts' of length 0 in '/Game/VN_Framework/Blueprints/SceneTemplate_BP.SceneTemplate_BP_C'!
+[2025.10.25-10.56.53:217][ 57]LogScript: Warning: Script Msg called by: SceneTemplate_BP_C /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent.Main_Persistent:PersistentLevel.SceneTemplate_BP_C_0
+[2025.10.25-10.56.53:249][ 58]LogBlueprintUserMessages: [Global_BP_C_15] SAVING
+[2025.10.25-10.56.53:694][ 86]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WidgetsUp' of length 0 in '/Game/VN_Framework/Blueprints/Global_BP.Global_BP_C'!
+[2025.10.25-10.56.53:694][ 86]LogScript: Warning: Script Msg called by: WD_Main_Menu_C /Engine/Transient.UnrealEdEngine_0:Global_BP_C_15.WD_Main_Menu_C_0
+[2025.10.25-10.56.55:527][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-10.56.55:527][200]LogWorld: BeginTearingDown for /Game/VN_Framework/Maps/UEDPIE_0_Main_Persistent
+[2025.10.25-10.56.55:527][200]LogSlate: Window 'MyoNaOmoitsukiDeVN Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM5)' being destroyed
+[2025.10.25-10.56.55:533][200]LogWorld: UWorld::CleanupWorld for Main_Persistent, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-10.56.55:533][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-10.56.55:534][200]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-10.56.55:541][200]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-10.56.55:571][200]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2025.10.25-10.56.55:571][200]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=4
+[2025.10.25-10.56.55:573][200]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17, StreamState=2
+[2025.10.25-10.56.55:580][200]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.10.25-10.56.55:611][201]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.10.25-10.56.55:641][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
