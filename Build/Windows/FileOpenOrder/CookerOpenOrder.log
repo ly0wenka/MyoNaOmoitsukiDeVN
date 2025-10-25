@@ -1,0 +1,1232 @@
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 0
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 1
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 2
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 3
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 4
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 5
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 6
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 7
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 8
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 11
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 12
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 13
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 14
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 15
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 16
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 17
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 18
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 19
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 20
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 21
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 22
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 23
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 24
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 25
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 26
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 27
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 28
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 29
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 30
+"../../../Engine/Content/EngineSounds/Master.uasset" 31
+"../../../Engine/Content/EngineSounds/Master.uexp" 32
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 33
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 34
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 35
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 36
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 37
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 38
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 39
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 40
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 41
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 42
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 43
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 44
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 45
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 46
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 47
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 48
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 49
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 50
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 51
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 52
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 53
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 54
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 55
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 56
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 57
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 58
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 59
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 60
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 61
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 62
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 63
+"../../../Engine/Content/EngineResources/Black.uasset" 64
+"../../../Engine/Content/EngineResources/Black.uexp" 65
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 66
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 67
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 68
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 69
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 70
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 71
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 72
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 73
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 74
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 75
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 76
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 77
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 78
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 79
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 80
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 81
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 82
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 83
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 84
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 85
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 86
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 87
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 88
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 89
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 90
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 91
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 92
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 93
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 94
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 95
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 96
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 97
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 98
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 99
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 100
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 101
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 102
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 103
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 104
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 105
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 106
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 107
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 108
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 109
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 110
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 111
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 112
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 113
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 114
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 115
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 116
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 117
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 118
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 119
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 120
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 121
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 122
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 123
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 124
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 125
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 126
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 127
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 128
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 129
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 130
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 131
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 132
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 133
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 134
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 135
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 137
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 138
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 139
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 140
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 141
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 142
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 143
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 144
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 145
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 146
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 147
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 148
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 149
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 150
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 151
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 152
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 153
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 154
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 155
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 156
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 157
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 158
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 159
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 160
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 161
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 162
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 163
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 164
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 165
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 166
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 167
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 168
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 169
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 170
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 171
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 172
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 173
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 174
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 175
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 176
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 177
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 178
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 179
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 180
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 181
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 182
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 183
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 184
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 185
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 186
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 187
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 188
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 189
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 190
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 191
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 192
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 193
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 194
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 195
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 196
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 197
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 198
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 199
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 200
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 201
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 202
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 203
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 204
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 205
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 206
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 207
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 208
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 209
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 210
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 211
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 212
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 213
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 214
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 215
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 216
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 217
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 218
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 219
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 220
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 221
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 222
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 223
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 224
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 225
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 226
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 227
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 228
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 229
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 230
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 231
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 232
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 233
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 234
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 235
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 236
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 237
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 238
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 239
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 240
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 241
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 242
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 243
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 244
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 245
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 246
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 247
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 248
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 249
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 250
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 251
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 252
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 253
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 254
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 255
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 256
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 257
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 258
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 259
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 260
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 261
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 262
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 263
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 264
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 266
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 267
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 268
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 269
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 270
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 271
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 272
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 273
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 274
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 275
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 276
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 277
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 278
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 279
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 280
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 281
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 282
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 283
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 284
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 285
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 286
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 287
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 289
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 290
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 291
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 292
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 293
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 294
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 295
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 296
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 297
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 298
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 299
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 300
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 301
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 302
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 303
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 304
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 305
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 306
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 307
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 308
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 309
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 310
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 311
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 313
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 314
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 315
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 316
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 317
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 318
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 319
+"../../../Engine/Content/BasicShapes/Plane.uasset" 320
+"../../../Engine/Content/BasicShapes/Plane.uexp" 321
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 322
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 323
+"../../../Engine/Content/BasicShapes/Cone.uasset" 324
+"../../../Engine/Content/BasicShapes/Cone.uexp" 325
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 326
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 327
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_LineSize.uasset" 328
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_LineSize.uexp" 329
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Scenes.uasset" 330
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Scenes.uexp" 331
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Enums/Expressions.uasset" 332
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Enums/Expressions.uexp" 333
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Enums/Characters.uasset" 334
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Enums/Characters.uexp" 335
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_ScriptLines.uasset" 336
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_ScriptLines.uexp" 337
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/SceneDefault.uasset" 338
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/SceneDefault.uexp" 339
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/DT_UniversalScenes.uasset" 340
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/DT_UniversalScenes.uexp" 341
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_All2D.uasset" 342
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_All2D.uexp" 343
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_RichText.uasset" 344
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_RichText.uexp" 345
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_CharCreate.uasset" 346
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_CharCreate.uexp" 347
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene1_Intro.uasset" 348
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene1_Intro.uexp" 349
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/SceneMap2.uasset" 350
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/SceneMap2.uexp" 351
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_Levels.uasset" 352
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_Levels.uexp" 353
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_NVL.uasset" 354
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_NVL.uexp" 355
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_SceneLaunch.uasset" 356
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_SceneLaunch.uexp" 357
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_SceneDTs.uasset" 358
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_SceneDTs.uexp" 359
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene2.uasset" 360
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene2.uexp" 361
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_SFX.uasset" 362
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_SFX.uexp" 363
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_Branching.uasset" 364
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_Branching.uexp" 365
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_Cycling.uasset" 366
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_Cycling.uexp" 367
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene2_Check-In.uasset" 368
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene2_Check-In.uexp" 369
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_SceneCreate.uasset" 370
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/Scene_SceneCreate.uexp" 371
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/DT_MainScenes.uasset" 372
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Scenes/DT_MainScenes.uexp" 373
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 374
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 375
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 376
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 377
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 378
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 379
+"../../../Engine/Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uexp" 380
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Clothes2.uasset" 381
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Clothes2.uexp" 382
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Clothes2_Sprite.uasset" 383
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Clothes2_Sprite.uexp" 384
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Clothes2_pose2.uasset" 385
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Clothes2_pose2.uexp" 386
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Clothes2_pose2_Sprite_0.uasset" 387
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Clothes2_pose2_Sprite_0.uexp" 388
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Enums/Poses.uasset" 389
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Enums/Poses.uexp" 390
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_LayerPadded.uasset" 391
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_LayerPadded.uexp" 392
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_PoseData.uasset" 393
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_PoseData.uexp" 394
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_JessPoses_1.uasset" 395
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_JessPoses_1.uexp" 396
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_front2.uasset" 397
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_front2.uexp" 398
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Hair_front2_pose2.uasset" 399
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Hair_front2_pose2.uexp" 400
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/TranslucentUnlitSpriteMaterial.uasset" 401
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/TranslucentUnlitSpriteMaterial.uexp" 402
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/spr_blank.uasset" 403
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/spr_blank.uexp" 404
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/spr_blank_Sprite.uasset" 405
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/spr_blank_Sprite.uexp" 406
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_front2_Sprite.uasset" 407
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_front2_Sprite.uexp" 408
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_JessHairPoses_2.uasset" 409
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_JessHairPoses_2.uexp" 410
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_LayerOverwrites.uasset" 411
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_LayerOverwrites.uexp" 412
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_Jess_CostOW.uasset" 413
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_Jess_CostOW.uexp" 414
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/mouse_click.uasset" 415
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/mouse_click.uexp" 416
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/mouse_click_Sprite.uasset" 417
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/mouse_click_Sprite.uexp" 418
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/choice_pointer.uasset" 419
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/choice_pointer.uexp" 420
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/button_action_hovered.uasset" 421
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/button_action_hovered.uexp" 422
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/button_action.uasset" 423
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/button_action.uexp" 424
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS.uasset" 425
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS.uexp" 426
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Y_0.uasset" 427
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Y_0.uexp" 428
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/SfxClass.uasset" 429
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/SfxClass.uexp" 430
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Alphabet.uasset" 431
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Alphabet.uexp" 432
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/DT_TestLetter.uasset" 433
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/DT_TestLetter.uexp" 434
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/MyCameraShake_inScene.uasset" 435
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/MyCameraShake_inScene.uexp" 436
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 437
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 438
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/BP_3D_Interactive.uasset" 439
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/BP_3D_Interactive.uexp" 440
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/InvisibleSceneStarter_BP.uasset" 441
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/InvisibleSceneStarter_BP.uexp" 442
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/SceneProcessor_BP.uasset" 443
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/SceneProcessor_BP.uexp" 444
+"../../../Engine/Content/BasicShapes/Cube.uasset" 445
+"../../../Engine/Content/BasicShapes/Cube.uexp" 446
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/DefaultFont.uasset" 447
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/DefaultFont.uexp" 448
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/RichTextDT.uasset" 449
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/RichTextDT.uexp" 450
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/SmallWidgets/WD_TextBlock.uasset" 451
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/SmallWidgets/WD_TextBlock.uexp" 452
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/text_box.uasset" 453
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/text_box.uexp" 454
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_PoseLayers.uasset" 455
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_PoseLayers.uexp" 456
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/GalleryCategory.uasset" 457
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/GalleryCategory.uexp" 458
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/ST_GalleryStruct.uasset" 459
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/ST_GalleryStruct.uexp" 460
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_CG.uasset" 461
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_CG.uexp" 462
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Interfaces/BPI_CamTriggers.uasset" 463
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Interfaces/BPI_CamTriggers.uexp" 464
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/menu_bg4.uasset" 465
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/menu_bg4.uexp" 466
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_CharWidget.uasset" 467
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_CharWidget.uexp" 468
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/buttons_hovered.uasset" 469
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/buttons_hovered.uexp" 470
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/GUI_border.uasset" 471
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/GUI_border.uexp" 472
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Dia.uasset" 473
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Dia.uexp" 474
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/NVL_SceneTemp_BP.uasset" 475
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/NVL_SceneTemp_BP.uexp" 476
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_NVL.uasset" 477
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_NVL.uexp" 478
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Log.uasset" 479
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Log.uexp" 480
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 481
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 482
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_L1.uasset" 483
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_L1.uexp" 484
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/menu_bg.uasset" 485
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/menu_bg.uexp" 486
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonSprite_15.uasset" 487
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonSprite_15.uexp" 488
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/VoiceMix.uasset" 489
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/VoiceMix.uexp" 490
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/VAClass.uasset" 491
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/VAClass.uexp" 492
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Save/ConfigSave_BP.uasset" 493
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Save/ConfigSave_BP.uexp" 494
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/VA_NarrationClass.uasset" 495
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/VA_NarrationClass.uexp" 496
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/SfxMix.uasset" 497
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/SfxMix.uexp" 498
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/MusicMix.uasset" 499
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/MusicMix.uexp" 500
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_R2.uasset" 501
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_R2.uexp" 502
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_L2.uasset" 503
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_L2.uexp" 504
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/sliderHandle.uasset" 505
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/sliderHandle.uexp" 506
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Border.ubulk" 507
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Border.uasset" 508
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Border.uexp" 509
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_RT.uasset" 510
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_RT.uexp" 511
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_LT.uasset" 512
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_LT.uexp" 513
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/OptionsButtons/WD_SliderButtons.uasset" 514
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/OptionsButtons/WD_SliderButtons.uexp" 515
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/OptionsButtons/WD_ComboBoxButton.uasset" 516
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/OptionsButtons/WD_ComboBoxButton.uexp" 517
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/MusicClass.uasset" 518
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/AudioMixAndClass/MusicClass.uexp" 519
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/OptionsButtons/WD_Slider_Int.uasset" 520
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/OptionsButtons/WD_Slider_Int.uexp" 521
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/checkmark.uasset" 522
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/checkmark.uexp" 523
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Checkbox.uasset" 524
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Checkbox.uexp" 525
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/OptionsButtons/WD_CheckboxButton.uasset" 526
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/OptionsButtons/WD_CheckboxButton.uexp" 527
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/arrow_right_hovered.uasset" 528
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/arrow_right_hovered.uexp" 529
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Save/SaveGame_List.uasset" 530
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Save/SaveGame_List.uexp" 531
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Triangle_4.uasset" 532
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Triangle_4.uexp" 533
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/arrow_right.uasset" 534
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/arrow_right.uexp" 535
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_SaveMenu.uasset" 536
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_SaveMenu.uexp" 537
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_AreYouSure.uasset" 538
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_AreYouSure.uexp" 539
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_ResTimer.uasset" 540
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_ResTimer.uexp" 541
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_GameOptions.uasset" 542
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_GameOptions.uexp" 543
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/menu_top_buttons_1.uasset" 544
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/menu_top_buttons_1.uexp" 545
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_ControllerButton_10.uasset" 546
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_ControllerButton_10.uexp" 547
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_ControllerButton_11.uasset" 548
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_ControllerButton_11.uexp" 549
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/menu_top_buttons_2.uasset" 550
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/menu_top_buttons_2.uexp" 551
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/menu_top_buttons_3.uasset" 552
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/menu_top_buttons_3.uexp" 553
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/GeneralButtons/WD_TopButton.uasset" 554
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/GeneralButtons/WD_TopButton.uexp" 555
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/MM_bg_0.uasset" 556
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/MM_bg_0.uexp" 557
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Save/PersistentData.uasset" 558
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Save/PersistentData.uexp" 559
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/whiteBlock.ubulk" 560
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/whiteBlock.uasset" 561
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/whiteBlock.uexp" 562
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/CardPieces/topic_locked.uasset" 563
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/CardPieces/topic_locked.uexp" 564
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/CardPieces/inner_backdrop.uasset" 565
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/CardPieces/inner_backdrop.uexp" 566
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/CardPieces/outer_hover_frame.uasset" 567
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/CardPieces/outer_hover_frame.uexp" 568
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/WD_GalleryCard.uasset" 569
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/WD_GalleryCard.uexp" 570
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_GridSystem.uasset" 571
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_GridSystem.uexp" 572
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/FunctionOverride.uasset" 573
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/FunctionOverride.uexp" 574
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneLaunch1.uasset" 575
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneLaunch1.uexp" 576
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/ChoiceCode.uasset" 577
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/ChoiceCode.uexp" 578
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/ChoiceCode_Sprite_0.uasset" 579
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/ChoiceCode_Sprite_0.uexp" 580
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/BranchBookmarks.uasset" 581
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/BranchBookmarks.uexp" 582
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/BranchBookmarks_Sprite_0.uasset" 583
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/BranchBookmarks_Sprite_0.uexp" 584
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Touch-click.uasset" 585
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Touch-click.uexp" 586
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/RichTextExample_Sprite_0.uasset" 587
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/RichTextExample_Sprite_0.uexp" 588
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/NextLevel.uasset" 589
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/NextLevel.uexp" 590
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/NextLevel_Sprite_0.uasset" 591
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/NextLevel_Sprite_0.uexp" 592
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Conditions.uasset" 593
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Conditions.uexp" 594
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneList.uasset" 595
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneList.uexp" 596
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/LocalScenes.uasset" 597
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/LocalScenes.uexp" 598
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneLaunch1_Sprite_0.uasset" 599
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneLaunch1_Sprite_0.uexp" 600
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/CharLayers.uasset" 601
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/CharLayers.uexp" 602
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/CharLayers_Sprite_0.uasset" 603
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/CharLayers_Sprite_0.uexp" 604
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/CharList.uasset" 605
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/CharList.uexp" 606
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/CharList_Sprite_0.uasset" 607
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/CharList_Sprite_0.uexp" 608
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneDT.uasset" 609
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneDT.uexp" 610
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/LocalScenes_Sprite_0.uasset" 611
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/LocalScenes_Sprite_0.uexp" 612
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Levels.uasset" 613
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Levels.uexp" 614
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Levels_Sprite_0.uasset" 615
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Levels_Sprite_0.uexp" 616
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneDT_Sprite_0.uasset" 617
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneDT_Sprite_0.uexp" 618
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneList_Sprite_0.uasset" 619
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/SceneList_Sprite_0.uexp" 620
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/FunctionOverride_Sprite_0.uasset" 621
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/FunctionOverride_Sprite_0.uexp" 622
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Touch-click_Sprite_0.uasset" 623
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Touch-click_Sprite_0.uexp" 624
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/MasterCharDT.uasset" 625
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/MasterCharDT.uexp" 626
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/MasterCharDT_Sprite_0.uasset" 627
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/MasterCharDT_Sprite_0.uexp" 628
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/RichTextExample2_Sprite_0.uasset" 629
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/RichTextExample2_Sprite_0.uexp" 630
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Conditions_Sprite_0.uasset" 631
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/Conditions_Sprite_0.uexp" 632
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/LayerDT.uasset" 633
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/LayerDT.uexp" 634
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/LayerDT_Sprite_0.uasset" 635
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/LayerDT_Sprite_0.uexp" 636
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/PoseDT.uasset" 637
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/PoseDT.uexp" 638
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/PoseDT_Sprite_0.uasset" 639
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/PoseDT_Sprite_0.uexp" 640
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/GalleryListDT.uasset" 641
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/GalleryListDT.uexp" 642
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/WD_Gallery.uasset" 643
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Gallery/WD_Gallery.uexp" 644
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_About.uasset" 645
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_About.uexp" 646
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Extras.uasset" 647
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Extras.uexp" 648
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/MM_bg_title.uasset" 649
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/MM_bg_title.uexp" 650
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Colors.uasset" 651
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Colors.uexp" 652
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/DT_Colors.uasset" 653
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/DT_Colors.uexp" 654
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Fade_Widget.uasset" 655
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Fade_Widget.uexp" 656
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset" 657
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uexp" 658
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/ControlsPage.uasset" 659
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/ControlsPage.uexp" 660
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/ControlsPageXbox.uasset" 661
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/ControlsPageXbox.uexp" 662
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/ControlsPagePS4.uasset" 663
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/ControlsPagePS4.uexp" 664
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Controls.uasset" 665
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Controls.uexp" 666
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_LargeMenuParent.uasset" 667
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_LargeMenuParent.uexp" 668
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Interfaces/BPI_Modes.uasset" 669
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Interfaces/BPI_Modes.uexp" 670
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/WidgetController.uasset" 671
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/WidgetController.uexp" 672
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/MainCamera.uasset" 673
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/MainCamera.uexp" 674
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Loading_BP.uasset" 675
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Loading_BP.uexp" 676
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_TravelConfirm.uasset" 677
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_TravelConfirm.uexp" 678
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/TouchClickActor_BP.uasset" 679
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/TouchClickActor_BP.uexp" 680
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Save/SaveGame_BP.uasset" 681
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Save/SaveGame_BP.uexp" 682
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/MyCameraShake.uasset" 683
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/MyCameraShake.uexp" 684
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Stats.uasset" 685
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Stats.uexp" 686
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/ShakyCam.uasset" 687
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/ShakyCam.uexp" 688
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Enums/Transitions.uasset" 689
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Enums/Transitions.uexp" 690
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/DT_Alphabet.uasset" 691
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/DT_Alphabet.uexp" 692
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Global_BP.uasset" 693
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Global_BP.uexp" 694
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_ControllerPrompt.uasset" 695
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_ControllerPrompt.uexp" 696
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_MenuParent.uasset" 697
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_MenuParent.uexp" 698
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/button_selected.uasset" 699
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/button_selected.uexp" 700
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/GeneralButtons/WD_BasicButton.uasset" 701
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/GeneralButtons/WD_BasicButton.uexp" 702
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/GeneralButtons/WD_ChoiceButton.uasset" 703
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/GeneralButtons/WD_ChoiceButton.uexp" 704
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Choice_button_yellow.uasset" 705
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Choice_button_yellow.uexp" 706
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Choice_button_yellow_hovered.uasset" 707
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/Choice_button_yellow_hovered.uexp" 708
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Choices.uasset" 709
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Choices.uexp" 710
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/bullettransition.ubulk" 711
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/bullettransition.uasset" 712
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/bullettransition.uexp" 713
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/bullettransition_Sprite2.uasset" 714
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/bullettransition_Sprite2.uexp" 715
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/bullettransition_Sprite.uasset" 716
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/bullettransition_Sprite.uexp" 717
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Bullettransition.uasset" 718
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Bullettransition.uexp" 719
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Run.uasset" 720
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Run.uexp" 721
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/St_SceneChoices.uasset" 722
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/St_SceneChoices.uexp" 723
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Flash.uasset" 724
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Flash.uexp" 725
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Nickname.uasset" 726
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Nickname.uexp" 727
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/choice1.uasset" 728
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/choice1.uexp" 729
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Choice_Splash.uasset" 730
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_Choice_Splash.uexp" 731
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/SceneTemplate_BP.uasset" 732
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/SceneTemplate_BP.uexp" 733
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Interfaces/BPI_SceneTriggers.uasset" 734
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Interfaces/BPI_SceneTriggers.uexp" 735
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/MovementControls.uasset" 736
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/MovementControls.uexp" 737
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/MovementControls_Sprite.uasset" 738
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/MovementControls_Sprite.uexp" 739
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_ControllerButton_7.uasset" 740
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_ControllerButton_7.uexp" 741
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_A_3.uasset" 742
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_A_3.uexp" 743
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/MovementKeyboard.uasset" 744
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/MovementKeyboard.uexp" 745
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/MovementKeyboard_Sprite.uasset" 746
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/MovementKeyboard_Sprite.uexp" 747
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_PlayerHUD.uasset" 748
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_PlayerHUD.uexp" 749
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Interactable.uasset" 750
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Interactable.uexp" 751
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/VN_FirstPersonCharacter.uasset" 752
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/VN_FirstPersonCharacter.uexp" 753
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/FB_blank.uasset" 754
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/FB_blank.uexp" 755
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/ParentActor.uasset" 756
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/ParentActor.uexp" 757
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Character.uasset" 758
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Structures/ST_Character.uexp" 759
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_body_pose2.uasset" 760
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_body_pose2.uexp" 761
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_body_pose2_Sprite_0.uasset" 762
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_body_pose2_Sprite_0.uexp" 763
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head.uasset" 764
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head.uexp" 765
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_Sprite.uasset" 766
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_Sprite.uexp" 767
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_body.uasset" 768
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_body.uexp" 769
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_body_Sprite.uasset" 770
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_body_Sprite.uexp" 771
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth3.uasset" 772
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth3.uexp" 773
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth3_Sprite.uasset" 774
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth3_Sprite.uexp" 775
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth2.uasset" 776
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth2.uexp" 777
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth2_Sprite.uasset" 778
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth2_Sprite.uexp" 779
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth1.uasset" 780
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth1.uexp" 781
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth1_Sprite.uasset" 782
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_mouth1_Sprite.uexp" 783
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/FB_MC_mouth.uasset" 784
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/FB_MC_mouth.uexp" 785
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Clothes_pose2.uasset" 786
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Clothes_pose2.uexp" 787
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Clothes_pose2_Sprite_0.uasset" 788
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Clothes_pose2_Sprite_0.uexp" 789
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_blink1.uasset" 790
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_blink1.uexp" 791
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink_pose2_1.uasset" 792
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink_pose2_1.uexp" 793
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_blink2.uasset" 794
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_blink2.uexp" 795
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink_pose2_2.uasset" 796
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink_pose2_2.uexp" 797
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/FB_MC_blink.uasset" 798
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/FB_MC_blink.uexp" 799
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_back.uasset" 800
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_back.uexp" 801
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_back_Sprite.uasset" 802
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_back_Sprite.uexp" 803
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_blink1_Sprite.uasset" 804
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_blink1_Sprite.uexp" 805
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_blink2_Sprite.uasset" 806
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_blink2_Sprite.uexp" 807
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/FB_MC_blink.uasset" 808
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/FB_MC_blink.uexp" 809
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Hair_back2_Sprite.uasset" 810
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Hair_back2_Sprite.uexp" 811
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_front.uasset" 812
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_front.uexp" 813
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Hair_front_pose2.uasset" 814
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Hair_front_pose2.uexp" 815
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_Sprite.uasset" 816
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_Sprite.uexp" 817
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_front_Sprite.uasset" 818
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Hair_front_Sprite.uexp" 819
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_mouth3_Sprite.uasset" 820
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_mouth3_Sprite.uexp" 821
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_mouth2_Sprite.uasset" 822
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_mouth2_Sprite.uexp" 823
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_mouth1_Sprite.uasset" 824
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_mouth1_Sprite.uexp" 825
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/FB_MC_mouth.uasset" 826
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/FB_MC_mouth.uexp" 827
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Clothes.uasset" 828
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Clothes.uexp" 829
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Clothes_Sprite.uasset" 830
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Clothes_Sprite.uexp" 831
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_JessPoses_0.uasset" 832
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_JessPoses_0.uexp" 833
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_uncertain.uasset" 834
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_uncertain.uexp" 835
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_uncertain_Sprite.uasset" 836
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_uncertain_Sprite.uexp" 837
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_mischief.uasset" 838
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_mischief.uexp" 839
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_mischief_Sprite.uasset" 840
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_mischief_Sprite.uexp" 841
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_happy.uasset" 842
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_happy.uexp" 843
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_happy_Sprite_0.uasset" 844
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_happy_Sprite_0.uexp" 845
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_sad.uasset" 846
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_sad.uexp" 847
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_sad_Sprite.uasset" 848
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_sad_Sprite.uexp" 849
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_smile.uasset" 850
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_smile.uexp" 851
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_smile_Sprite.uasset" 852
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_smile_Sprite.uexp" 853
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_surprised.uasset" 854
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_surprised.uexp" 855
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_surprised_Sprite.uasset" 856
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_surprised_Sprite.uexp" 857
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink2_angry.uasset" 858
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink2_angry.uexp" 859
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink2_angry_pose2.uasset" 860
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink2_angry_pose2.uexp" 861
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink1_angry.uasset" 862
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink1_angry.uexp" 863
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink1_angry_pose2.uasset" 864
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_blink1_angry_pose2.uexp" 865
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/FB_MC_blink1_angry_pose2.uasset" 866
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/FB_MC_blink1_angry_pose2.uexp" 867
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_angry.uasset" 868
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_angry.uexp" 869
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_angry2_Sprite.uasset" 870
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_angry2_Sprite.uexp" 871
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_Jess_Cost0.uasset" 872
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_Jess_Cost0.uexp" 873
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/CharacterDT.uasset" 874
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/CharacterDT.uexp" 875
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_Jess_Hair1.uasset" 876
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_Jess_Hair1.uexp" 877
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_Jess_Cost1.uasset" 878
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/CharData/Jessica_DTs/DT_Jess_Cost1.uexp" 879
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/SmallWidgets/WD_ControllerPrompt.uasset" 880
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/SmallWidgets/WD_ControllerPrompt.uexp" 881
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 882
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 883
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 884
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 885
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 886
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 887
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 888
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 889
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 890
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 891
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 892
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 893
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 894
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 895
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 896
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 897
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 898
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 899
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 900
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 901
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 902
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 903
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 904
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 905
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 906
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 907
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 908
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 909
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 910
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 911
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 912
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 913
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 914
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 915
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 916
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 917
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 918
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 919
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 920
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 921
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 922
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 923
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 924
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 925
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 926
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 927
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 928
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 929
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 930
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 931
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 932
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 933
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 934
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 935
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 936
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 937
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 938
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 939
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 940
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 941
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 942
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 943
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 944
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 945
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 946
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 947
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 948
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 949
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 950
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 951
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 952
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 953
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 954
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 955
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 956
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 957
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 958
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 959
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 960
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 961
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 962
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 963
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 964
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 965
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 966
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 967
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 968
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 969
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 970
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 971
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 972
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 973
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 974
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 975
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 976
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 977
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 978
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 979
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 980
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 981
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 982
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 983
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 984
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 985
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 986
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 987
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 988
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 989
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 990
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 991
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 992
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 993
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 994
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 995
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 996
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 997
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 998
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 999
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 1000
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 1001
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 1002
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 1003
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 1004
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 1005
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 1006
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 1007
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 1008
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 1009
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 1010
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 1011
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 1012
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 1013
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 1014
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 1015
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 1016
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 1017
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 1018
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 1019
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 1020
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 1021
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 1022
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 1023
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 1024
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 1025
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 1026
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 1027
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 1028
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 1029
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 1030
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 1031
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 1032
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 1033
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 1034
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 1035
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 1036
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 1037
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 1038
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 1039
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 1040
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 1041
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 1042
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 1043
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 1044
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 1045
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 1046
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 1047
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 1048
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 1049
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 1050
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 1051
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 1052
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Interfaces/BPI_ShakyCam.uasset" 1053
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Interfaces/BPI_ShakyCam.uexp" 1054
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera7.uasset" 1055
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera7.uexp" 1056
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera6.uasset" 1057
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera6.uexp" 1058
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera5.uasset" 1059
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera5.uexp" 1060
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera4.uasset" 1061
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera4.uexp" 1062
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera2.uasset" 1063
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera2.uexp" 1064
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/normal_blank.ubulk" 1065
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/normal_blank.uasset" 1066
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/normal_blank.uexp" 1067
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Woodsy.uasset" 1068
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Woodsy.uexp" 1069
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/throb.ubulk" 1070
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/throb.uasset" 1071
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/throb.uexp" 1072
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/text_box_glow.uasset" 1073
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/text_box_glow.uexp" 1074
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/spr_text_bullets_checked.uasset" 1075
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/spr_text_bullets_checked.uexp" 1076
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/name_box.uasset" 1077
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/name_box.uexp" 1078
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/madeinstl.uasset" 1079
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/madeinstl.uexp" 1080
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/journal_menu_bg.uasset" 1081
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/journal_menu_bg.uexp" 1082
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerViewSprite.uasset" 1083
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerViewSprite.uexp" 1084
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/ControllerTouchPad.uasset" 1085
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/ControllerTouchPad.uexp" 1086
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_X.uasset" 1087
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_X.uexp" 1088
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Square.uasset" 1089
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Square.uexp" 1090
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Sprite_1.uasset" 1091
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Sprite_1.uexp" 1092
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Options.uasset" 1093
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_Options.uexp" 1094
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_ControllerButton_17.uasset" 1095
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_ControllerButton_17.uexp" 1096
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_A_5.uasset" 1097
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/controllerButtonsSS_A_5.uexp" 1098
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/choice_button.uasset" 1099
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/Menus/choice_button.uexp" 1100
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uasset" 1101
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/FlatNormalMap.uexp" 1102
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uasset" 1103
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultLitSpriteMaterial.uexp" 1104
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/TranslucentLitSpriteMaterial.uasset" 1105
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/TranslucentLitSpriteMaterial.uexp" 1106
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaterialColor.uasset" 1107
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaterialColor.uexp" 1108
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaterialRed.uasset" 1109
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaterialRed.uexp" 1110
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaskedUnlitSpriteMaterial.uasset" 1111
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaskedUnlitSpriteMaterial.uexp" 1112
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaskedLitSpriteMaterial.uasset" 1113
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaskedLitSpriteMaterial.uexp" 1114
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_surprised_Sprite.uasset" 1115
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_surprised_Sprite.uexp" 1116
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_smile2_Sprite.uasset" 1117
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_smile2_Sprite.uexp" 1118
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_mischief_Sprite.uasset" 1119
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_mischief_Sprite.uexp" 1120
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_frown.uasset" 1121
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_frown.uexp" 1122
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_frown_Sprite.uasset" 1123
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_frown_Sprite.uexp" 1124
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_angry_Sprite.uasset" 1125
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose2/MC_Head_angry_Sprite.uexp" 1126
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_uncertain_Sprite.uasset" 1127
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_uncertain_Sprite.uexp" 1128
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_sad_Sprite.uasset" 1129
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_sad_Sprite.uexp" 1130
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_frown_Sprite.uasset" 1131
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_frown_Sprite.uexp" 1132
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_angry_Sprite.uasset" 1133
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/Jessica/Pose1/MC_Head_angry_Sprite.uexp" 1134
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/RichTextExample2.uasset" 1135
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/RichTextExample2.uexp" 1136
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/RichTextExample.uasset" 1137
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/CGs/RichTextExample.uexp" 1138
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1139
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1140
+"../../../Engine/Content/Maps/Entry.uexp" 1141
+"../../../Engine/Content/Maps/Entry.umap" 1142
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 1143
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 1144
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 1145
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_SignText.uasset" 1146
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Widgets/WD_SignText.uexp" 1147
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/spr_GUI_window.uasset" 1148
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/spr_GUI_window.uexp" 1149
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/spr_GUI_window_Sprite.uasset" 1150
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/UI/spr_GUI_window_Sprite.uexp" 1151
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Signs_Main_Parent.uasset" 1152
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Signs_Main_Parent.uexp" 1153
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_2D_Bg.uasset" 1154
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_2D_Bg.uexp" 1155
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_SceneDatatables.uasset" 1156
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_SceneDatatables.uexp" 1157
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 1158
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 1159
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 1160
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_BranchingScenes.uasset" 1161
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_BranchingScenes.uexp" 1162
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 1163
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 1164
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 1165
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 1166
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 1167
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 1168
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 1169
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 1170
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 1171
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 1172
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 1173
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 1174
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 1175
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 1176
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 1177
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_SpecialEffects.uasset" 1178
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_SpecialEffects.uexp" 1179
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera1.uasset" 1180
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera1.uexp" 1181
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_LaunchScenes.uasset" 1182
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_LaunchScenes.uexp" 1183
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 1184
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 1185
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/VN_GameMode.uasset" 1186
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/VN_GameMode.uexp" 1187
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Scene_Levels.uasset" 1188
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Scene_Levels.uexp" 1189
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_CyclingChoice.uasset" 1190
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_CyclingChoice.uexp" 1191
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Signs_CharCreate.uasset" 1192
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Signs_CharCreate.uexp" 1193
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/TutorialMap_BuiltData.ubulk" 1194
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/TutorialMap_BuiltData.uasset" 1195
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/TutorialMap_BuiltData.uexp" 1196
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/WorldSprite_MC.uasset" 1197
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/WorldSprite_MC.uexp" 1198
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/WorldSprite_MC_Sprite.uasset" 1199
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Characters/WorldSprite_MC_Sprite.uexp" 1200
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Char_Click_BP.uasset" 1201
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Char_Click_BP.uexp" 1202
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_NVL.uasset" 1203
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_NVL.uexp" 1204
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_SceneDefine.uasset" 1205
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_SceneDefine.uexp" 1206
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_RichText.uasset" 1207
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Touch-Click_BPs/Sign_BPs/Sign_RichText.uexp" 1208
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/TutorialMap.uexp" 1209
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/TutorialMap.umap" 1210
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaterialPurple.uasset" 1211
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaterialPurple.uexp" 1212
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaterialBlack.uasset" 1213
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/Materials/MaterialBlack.uexp" 1214
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Map2_BuiltData.ubulk" 1215
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Map2_BuiltData.uasset" 1216
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Map2_BuiltData.uexp" 1217
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Map2.uexp" 1218
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Map2.umap" 1219
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera3.uasset" 1220
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Blueprints/Cameras/Camera3.uexp" 1221
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Main_Persistent_BuiltData.uasset" 1222
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Main_Persistent_BuiltData.uexp" 1223
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Main_Persistent.uexp" 1224
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/Main_Persistent.umap" 1225
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/2D_BG.uasset" 1226
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/2D_BG.uexp" 1227
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/2D_BG_sprite.uasset" 1228
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/ArtAssets/2D_BG_sprite.uexp" 1229
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/2D_Background.uexp" 1230
+"J:/Development/VN-Framework-UE4 5.0/Content/VN_Framework/Maps/2D_Background.umap" 1231
