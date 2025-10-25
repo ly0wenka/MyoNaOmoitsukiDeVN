@@ -1886,3 +1886,29 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.25-09.37.53:083][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VN_Framework/CharData/CharacterDT_Auto1
 [2025.10.25-09.37.53:084][324]LogSavePackage: Moving 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/CharacterDT_Auto11C6D5D3449C2D147966F169B58CE0926.tmp' to 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/Autosaves/Game/VN_Framework/CharData/CharacterDT_Auto1.uasset'
 [2025.10.25-09.37.53:089][324]LogFileHelpers: Auto-saving content packages took 0.023
+[2025.10.25-09.39.06:471][988]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/VN_Framework/CharData/CharacterDT.CharacterDT
+[2025.10.25-09.39.09:522][303]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-09.39.09:553][303]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VN_Framework/CharData/CharacterDT] ([1] browsable assets)...
+[2025.10.25-09.39.09:553][303]OBJ SavePackage: Finished generating thumbnails for package [/Game/VN_Framework/CharData/CharacterDT]
+[2025.10.25-09.39.09:553][303]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VN_Framework/CharData/CharacterDT" FILE="S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/CharData/CharacterDT.uasset" SILENT=true
+[2025.10.25-09.39.09:554][303]LogSavePackage: Moving output files for package: /Game/VN_Framework/CharData/CharacterDT
+[2025.10.25-09.39.09:555][303]LogSavePackage: Moving 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/CharacterDT072074A24F7B8167D6C9A082640B6483.tmp' to 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/CharData/CharacterDT.uasset'
+[2025.10.25-09.39.09:567][303]LogFileHelpers: InternalPromptForCheckoutAndSave took 44.706 ms
+[2025.10.25-09.39.09:607][303]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-09.39.09:607][303]LogContentValidation: Enabled validators:
+[2025.10.25-09.39.09:609][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-09.39.09:609][303]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-09.39.09:609][303]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-09.39.09:609][303]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-09.39.09:609][303]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-09.39.09:609][303]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-09.39.09:611][303]AssetCheck: /Game/VN_Framework/CharData/CharacterDT Validating asset
+[2025.10.25-09.39.09:634][303]LogSourceControl: Display: Uncontrolled Changelist persistency file saved S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.25-09.39.21:063][643]LogSlate: Window 'CharacterDT' being destroyed
+[2025.10.25-09.39.21:067][643]LogSlate: Window 'CharacterDT' being destroyed
+[2025.10.25-09.39.30:213][714]LogStatusBar: Looking status bar with open content browser drawer...
+[2025.10.25-09.39.30:213][714]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2025.10.25-09.39.37:802][555]LogAssetEditorSubsystem: Opening Asset editor for SoundClass /Game/VN_Framework/AudioMixAndClass/MusicClass.MusicClass
+[2025.10.25-09.39.38:255][555]LogSlate: Took 0.003119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.25-09.39.41:296][866]LogSlate: Window 'MusicClass' being destroyed
+[2025.10.25-09.39.41:302][866]LogSlate: Window 'MusicClass' being destroyed
