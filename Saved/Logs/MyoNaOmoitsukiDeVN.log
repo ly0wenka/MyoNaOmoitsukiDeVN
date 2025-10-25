@@ -1879,3 +1879,10 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.25-09.35.51:617][960]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1004.595520
 [2025.10.25-09.35.52:622][963]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.25-09.35.52:622][963]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1005.264771, Update Interval: 306.388733
+[2025.10.25-09.37.53:063][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.25-09.37.53:066][324]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/VN_Framework/Maps/Main_Persistent' took 0.045
+[2025.10.25-09.37.53:069][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/VN_Framework/CharData/CharacterDT] ([1] browsable assets)...
+[2025.10.25-09.37.53:069][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/VN_Framework/CharData/CharacterDT]
+[2025.10.25-09.37.53:083][324]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VN_Framework/CharData/CharacterDT_Auto1
+[2025.10.25-09.37.53:084][324]LogSavePackage: Moving 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/CharacterDT_Auto11C6D5D3449C2D147966F169B58CE0926.tmp' to 'S:/repos/unreal/MyoNaOmoitsukiDeVN/Saved/Autosaves/Game/VN_Framework/CharData/CharacterDT_Auto1.uasset'
+[2025.10.25-09.37.53:089][324]LogFileHelpers: Auto-saving content packages took 0.023
