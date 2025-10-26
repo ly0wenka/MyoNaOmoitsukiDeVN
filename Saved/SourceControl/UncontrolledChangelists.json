@@ -38,7 +38,11 @@
 				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Scenes/Scene_SFX.uasset",
 				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Scenes/SceneMap2.uasset",
 				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Scenes/DT_MainScenes.uasset",
-				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset"
+				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Blueprints/Widgets/WD_Main_Menu.uasset",
+				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/ArtAssets/UI/MM_bg_title_new.uasset",
+				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/ArtAssets/UI/MM_bg_title_new1.uasset",
+				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Maps/TutorialMap.umap",
+				"S:/repos/unreal/MyoNaOmoitsukiDeVN/Content/VN_Framework/Maps/Main_Persistent.umap"
 			]
 		}
 	]
